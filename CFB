@@ -935,7 +935,8 @@ beam.Width0 = 0.5
 
 
 
-
+		local DevoxLib = Devox:NewWindow()
+		local t1 = DevoxLib:Tab("Mags", 10723426986)
 		
 		
 
